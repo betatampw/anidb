@@ -1,0 +1,13 @@
+{
+  "name": "aShop-app",
+  "version": "0.0.1",
+  "description": "aShop",
+  "dependencies": {
+    "xml2js": "0.4.1",
+    "mongoose": "3.8.6"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  }
+}
